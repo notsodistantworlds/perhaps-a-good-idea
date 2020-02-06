@@ -34,3 +34,6 @@ the workflow and/or capabilities of your programming language.
 
 - [Exhaustive switch](/TypeChecking/ExhaustiveSwitch/exhaustive-switch.md) - 
 compile-time guarantee of complete edge case handling
+- [Chaining operator](/FlexibleCode/ChainingOperator/chaining-operator.md) -
+a convenient and explicitly understandable way for writing fluent APIs 
+and builders
